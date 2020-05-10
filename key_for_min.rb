@@ -9,4 +9,5 @@ name_hash.collect do |name, points|
       lowest_value = points
       lowest_key = name
     end
+  lowest_key
 end
